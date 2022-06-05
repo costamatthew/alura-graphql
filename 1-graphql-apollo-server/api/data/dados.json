@@ -41,6 +41,13 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "id": 7,
+      "nome": "Mateus Costa",
+      "ativo": true,
+      "email": "mail@mail.com",
+      "role": 1
     }
   ],
   "roles": [
