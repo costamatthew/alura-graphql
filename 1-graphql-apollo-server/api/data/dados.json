@@ -64,6 +64,13 @@
       "role": 1,
       "createdAt": "2022-06-05T00:00:00.000Z",
       "id": 9
+    },
+    {
+      "nome": "Foo Silva",
+      "ativo": true,
+      "email": "mail@mail.com",
+      "role": 2,
+      "id": 10
     }
   ],
   "roles": [
