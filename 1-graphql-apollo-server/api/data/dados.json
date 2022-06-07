@@ -56,6 +56,14 @@
       "role": 1,
       "createdAt": "2022-06-05T00:00:00.000Z",
       "id": 8
+    },
+    {
+      "nome": "Outro aluno",
+      "ativo": true,
+      "email": "mail@mail.com",
+      "role": 1,
+      "createdAt": "2022-06-05T00:00:00.000Z",
+      "id": 9
     }
   ],
   "roles": [
